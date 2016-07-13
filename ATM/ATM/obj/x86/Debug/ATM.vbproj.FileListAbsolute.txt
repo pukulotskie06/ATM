@@ -1,0 +1,15 @@
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.pdb
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.Form1.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.Resources.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.vbproj.GenerateResource.Cache
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.pdb
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.exe.config
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\pukulot\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.vbproj.ResolveComReference.cache
